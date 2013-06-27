@@ -1,0 +1,8 @@
+@ECHO OFF
+SET /A CNT=1
+FOR %%G IN (*.jpg ) DO CALL :RENAME %%G %1
+GOTO :EOF
+
+:RENAME
+REN %1 %2_%CNT%.jpg
+SET /A CNT+=1
