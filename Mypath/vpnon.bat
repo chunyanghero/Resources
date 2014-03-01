@@ -1,2 +1,3 @@
-@ECHO OFF
-rasdial Rainbowvpn chunyanghero 1.onebot
+@echo off
+rasdial rainbow rainbowvpn 10fenzhong
+time /t

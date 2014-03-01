@@ -1,2 +1,2 @@
-@ECHO OFF
-explorer .\
+@echo off
+explorer .

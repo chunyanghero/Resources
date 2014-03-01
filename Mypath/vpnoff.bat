@@ -1,2 +1,2 @@
-@ECHO OFF
+@echo off
 rasdial /disconnect
